@@ -1,0 +1,212 @@
+[
+  {
+    "asin": "B09DUMMY02",
+    "title": "SoundCore Q30 Wireless Earbuds - Active Noise Cancelling, 40Hr Battery, IPX5",
+    "brand": "SoundCore",
+    "price_usd": 47.99,
+    "rating": 4.4,
+    "review_count": 28561,
+    "bsr_rank": 89,
+    "bsr_category": "Electronics",
+    "bullet_points": [
+      "Active noise cancellation blocks up to 95% of ambient sound",
+      "40-hour total battery life with charging case",
+      "IPX5 water resistant — safe for workouts and rain",
+      "Bluetooth 5.2 with 10m stable connection range",
+      "Built-in EQ modes: Bass Boost, Podcast, and Balanced"
+    ],
+    "affiliate_url": "https://www.amazon.com/dp/B09DUMMY02?tag=smartchoi02ba-20",
+    "main_image": "https://via.placeholder.com/400x400?text=Wireless+Earbuds",
+    "source_keyword": "wireless earbuds under 50",
+    "commission": {
+      "rate_pct": 3.0,
+      "estimated_usd": 1.44
+    },
+    "reviews": [
+      {
+        "title": "Beats earbuds 3x the price",
+        "body": "I returned my $150 Sony earbuds and bought these. Sound quality is honestly better for my use case — commuting and gym. ANC is not perfect but blocks enough to make a real difference on the subway.",
+        "rating": 5,
+        "verified": true,
+        "helpful": 891
+      },
+      {
+        "title": "Battery life is insane",
+        "body": "I charged these once on Monday and it's now Thursday. I use them 3–4 hours a day. The 40-hour claim is actually accurate which I never expected.",
+        "rating": 5,
+        "verified": true,
+        "helpful": 654
+      },
+      {
+        "title": "Connection drops sometimes",
+        "body": "Great sound and fit but the Bluetooth connection drops for 1–2 seconds randomly. Maybe once per hour. Annoying during calls. Hope a firmware update fixes it.",
+        "rating": 3,
+        "verified": true,
+        "helpful": 432
+      },
+      {
+        "title": "Perfect for my morning runs",
+        "body": "IPX5 rating is legit — survived heavy rain twice and a sweaty 10k. Stay in my ears perfectly even sprinting. Bass boost mode makes running feel cinematic.",
+        "rating": 5,
+        "verified": true,
+        "helpful": 387
+      },
+      {
+        "title": "Bought for my teenager, she loves them",
+        "body": "My daughter wanted AirPods but I wasn't spending $200. These are genuinely impressive for the price. She uses them all day and I barely have to remind her to charge them.",
+        "rating": 4,
+        "verified": true,
+        "helpful": 298
+      }
+    ],
+    "score_breakdown": {
+      "commission_value": 0.288,
+      "demand": 0.995,
+      "rating": 0.6,
+      "bsr_rank": 0.991,
+      "review_sentiment": 0.9
+    },
+    "final_score": 0.6939,
+    "estimated_monthly_revenue": 24.06
+  },
+  {
+    "asin": "B09DUMMY04",
+    "title": "LumiGlow LED Desk Lamp - Touch Dimmer, USB-C Charging Port, Eye-Care Technology",
+    "brand": "LumiGlow",
+    "price_usd": 42.99,
+    "rating": 4.6,
+    "review_count": 6721,
+    "bsr_rank": 743,
+    "bsr_category": "Home",
+    "bullet_points": [
+      "5 color temperatures from warm 2700K to cool 6500K daylight",
+      "10 brightness levels with touch-sensitive dimmer bar",
+      "Built-in USB-C port charges phone or tablet at 18W",
+      "Eye-care flicker-free technology reduces eye strain by 60%",
+      "Memory function remembers your last settings on power-on"
+    ],
+    "affiliate_url": "https://www.amazon.com/dp/B09DUMMY04?tag=smartchoi02ba-20",
+    "main_image": "https://via.placeholder.com/400x400?text=LED+Desk+Lamp",
+    "source_keyword": "desk lamp work from home",
+    "commission": {
+      "rate_pct": 3.0,
+      "estimated_usd": 1.29
+    },
+    "reviews": [
+      {
+        "title": "My eyes thank me every day",
+        "body": "Work 10 hours a day at a computer. Old lamp gave me headaches by noon. Switched to this and the headaches are almost completely gone. The warm light mode in the evening helps me wind down too.",
+        "rating": 5,
+        "verified": true,
+        "helpful": 445
+      },
+      {
+        "title": "The USB-C charging is surprisingly fast",
+        "body": "Didn't expect much from the charging port but it charges my phone as fast as a wall adapter. Now my desk has one less cable. Small thing but I love it.",
+        "rating": 5,
+        "verified": true,
+        "helpful": 334
+      },
+      {
+        "title": "Touch controls take getting used to",
+        "body": "Accidentally changed the brightness constantly for the first week. Now I like it. Looks very clean on my desk — no buttons to collect dust.",
+        "rating": 4,
+        "verified": true,
+        "helpful": 221
+      },
+      {
+        "title": "Perfect for my home office setup",
+        "body": "Works from home and invest in proper lighting. This lamp makes video calls look so much more professional. No more looking like I'm in a cave on Zoom.",
+        "rating": 5,
+        "verified": true,
+        "helpful": 198
+      },
+      {
+        "title": "Arm is a little wobbly at full extension",
+        "body": "At maximum height the arm has a slight wobble when I bump the desk. Not a dealbreaker but worth knowing. Everything else is excellent quality.",
+        "rating": 4,
+        "verified": true,
+        "helpful": 143
+      }
+    ],
+    "score_breakdown": {
+      "commission_value": 0.258,
+      "demand": 0.855,
+      "rating": 0.733,
+      "bsr_rank": 0.926,
+      "review_sentiment": 1.0
+    },
+    "final_score": 0.6766,
+    "estimated_monthly_revenue": 18.52
+  },
+  {
+    "asin": "B09DUMMY01",
+    "title": "ComfortFit Pro Posture Corrector for Men & Women - Adjustable Upper Back Brace",
+    "brand": "ComfortFit",
+    "price_usd": 34.99,
+    "rating": 4.5,
+    "review_count": 12843,
+    "bsr_rank": 312,
+    "bsr_category": "Health & Personal Care",
+    "bullet_points": [
+      "Relieves upper back and shoulder pain within 2 weeks of regular use",
+      "Fully adjustable straps fit chest sizes 28–48 inches",
+      "Breathable mesh material — wear under or over clothing",
+      "Recommended by physical therapists for desk workers",
+      "Includes posture exercise guide and mobile app access"
+    ],
+    "affiliate_url": "https://www.amazon.com/dp/B09DUMMY01?tag=smartchoi02ba-20",
+    "main_image": "https://via.placeholder.com/400x400?text=Posture+Corrector",
+    "source_keyword": "posture corrector",
+    "commission": {
+      "rate_pct": 3.0,
+      "estimated_usd": 1.05
+    },
+    "reviews": [
+      {
+        "title": "Actually works after 2 weeks",
+        "body": "I was skeptical but after sitting at my desk for years my shoulders were constantly rounded. Wore this for 2 weeks and my posture is noticeably better. The straps are a bit uncomfortable at first but you get used to it.",
+        "rating": 5,
+        "verified": true,
+        "helpful": 342
+      },
+      {
+        "title": "Good but runs small",
+        "body": "The brace itself is great quality and I can feel it working. Only complaint is it runs about one size small — order up. Also the velcro gets lint on it fast.",
+        "rating": 4,
+        "verified": true,
+        "helpful": 218
+      },
+      {
+        "title": "Life changer for desk workers",
+        "body": "Work from home and had terrible neck pain for months. Doctor suggested a posture brace. This one is comfortable enough to wear 4–5 hours a day. Pain is almost completely gone after 3 weeks.",
+        "rating": 5,
+        "verified": true,
+        "helpful": 197
+      },
+      {
+        "title": "Breaks after 2 months",
+        "body": "Velcro stopped sticking after about 8 weeks of daily use. Quality could be better for the price. The concept works though.",
+        "rating": 2,
+        "verified": true,
+        "helpful": 156
+      },
+      {
+        "title": "Husband bought this for me and it helped",
+        "body": "I was embarrassed by how bad my posture had gotten. This brace is discreet enough to wear under a loose shirt at work. My coworker asked if I'd been working out because I looked taller!",
+        "rating": 5,
+        "verified": true,
+        "helpful": 134
+      }
+    ],
+    "score_breakdown": {
+      "commission_value": 0.21,
+      "demand": 0.918,
+      "rating": 0.667,
+      "bsr_rank": 0.969,
+      "review_sentiment": 0.8
+    },
+    "final_score": 0.6511,
+    "estimated_monthly_revenue": 16.18
+  }
+]
