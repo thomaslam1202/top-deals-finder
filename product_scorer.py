@@ -22,8 +22,8 @@ import math
 # ══════════════════════════════════════════════════════════════════════════════
 
 WEIGHTS = {
-    "commission_value":  0.30,   # estimated $ earned per sale
-    "demand":            0.25,   # review count = market demand signal
+    "commission_value":  0.25,   # estimated $ earned per sale
+    "demand":            0.30,   # review count = market demand signal
     "rating":            0.20,   # product quality
     "bsr_rank":          0.15,   # best seller rank = sales velocity
     "review_sentiment":  0.10,   # ratio of 5★ vs low reviews
